@@ -27,7 +27,7 @@ def initConfig():
 	setCell( "vk_password", "Password" ) # Пароль от аккаунта ВК
 
 	setCell( "app_id", 2685278 ) # Приложение, у которого есть доступ взаимодействовать с ВК
-	setCell( "telegram_token", "12345678:ABcDeFgHeVzS-6543-dWEdGAJ1234" ) # Токен ботинка в Telegram
+	setCell( "telegram_token", "1589249839:AAGfbul8BZoBRLUgnE1sJNmF5UQu9vf1LAw" ) # Токен ботинка в Telegram
 
 	setCell( "telegram_SendName", False ) # Отправлять в ВК текст с именем отправителя из Telegram
 
